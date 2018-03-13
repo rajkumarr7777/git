@@ -8,4 +8,9 @@ class Curl
     {
         $this->url = $url;
     }
+
+    public function validate()
+    {
+        // Validate Request
+    }
 }
